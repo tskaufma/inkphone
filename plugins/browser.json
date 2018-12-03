@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ca.tskaufma.inkphone"
+        }
+    }
+}
